@@ -8,7 +8,7 @@ Sou apaixonado por programação e todas as possibilidades que ela trás.
 Sou um Full-Stack Developer 💻
 
 🚀&nbsp; Estou trabalhando no **CEBROM** <br />
-💜&nbsp; Buscando cada vez mais evoluir no ecossistema JavaScript <br /> 
+💜&nbsp; Buscando evoluir cada vez mais no ecossistema JavaScript <br /> 
 🤝&nbsp; Posso te ajudar com com Front-End e Back-End <br />
 💻&nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript <br />
 💬&nbsp; Sobre mim: Adoro tecnologia, games, música, design e qualquer coisa relacionada à isso! <br />
