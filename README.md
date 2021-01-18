@@ -7,7 +7,7 @@
 Sou apaixonado por programação e todas as possibilidades que ela trás.
 Sou um Full-Stack Developer 💻
 
-🚀&nbsp; Estou trabalhando no **CEBROM** <br />
+🚀&nbsp; Sou CTO da **Mais Bebidas** <br />
 💜&nbsp; Buscando evoluir cada vez mais no ecossistema JavaScript <br /> 
 🤝&nbsp; Posso te ajudar com com Front-End e Back-End <br />
 💻&nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript <br />
