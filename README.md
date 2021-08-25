@@ -9,6 +9,6 @@ Sou um Full-Stack Developer 💻
 
 🚀&nbsp; Sou desenvolvedor no **RankMyAPP** <br />
 💜&nbsp; Buscando evoluir cada vez mais no ecossistema JavaScript <br /> 
-🤝&nbsp; Posso te ajudar com com Front-End e Back-End <br />
+🤝&nbsp; Posso te ajudar com Front-End e Back-End <br />
 💻&nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript <br />
 💬&nbsp; Sobre mim: Adoro tecnologia, games, música, design e qualquer coisa relacionada à isso! <br />
