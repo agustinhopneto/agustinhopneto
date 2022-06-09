@@ -1,5 +1,3 @@
-<img width="auto" src="https://github.com/agustinhopneto/agustinhopneto/blob/master/Banner.png">
-
 ## Olá pessoal, Agustinho Neto aqui! 👋
 [![Linkedin Badge](https://img.shields.io/badge/-AgustinhoNeto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agustinhopneto/)](https://www.linkedin.com/in/agustinhopneto/) 
 | 
