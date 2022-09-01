@@ -9,5 +9,5 @@ Sou um Full-Stack Developer 💻
 💜&nbsp; Buscando evoluir cada vez mais no ecossistema JavaScript <br /> 
 🤝&nbsp; Posso te ajudar com Front-End e Back-End <br />
 💻&nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript <br />
-💬&nbsp; Sobre mim: Adoro tecnologia, games, música, design e qualquer coisa relacionada à isso! <br /><br /><br />
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=agustinhopneto&theme=algolia" alt="agustinhopneto" /></p>
+💬&nbsp; Sobre mim: Adoro tecnologia, games, música, design e qualquer coisa relacionada à isso! <br /><br />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=agustinhopneto&theme=algolia" alt="agustinhopneto" />
