@@ -10,4 +10,4 @@ Sou um Full-Stack Developer 💻
 🤝&nbsp; Posso te ajudar com Front-End e Back-End <br />
 💻&nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript <br />
 💬&nbsp; Sobre mim: Adoro tecnologia, games, música, design e qualquer coisa relacionada à isso! <br /><br /><br />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agustinhopneto&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agustinhopneto&show_icons=true&theme=tokyonight&count_private=true)
